@@ -1,0 +1,19 @@
+/* Author : Midhun Roy 
+Time : 04:15 pm*/
+* {
+	font-family: "Times New Roman", Times, serif;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.font-sz {
+	font-size: 40px;
+	font-weight: bold;
+}
+.img-fit {
+	width: 100%;
+	border-radius: 20px;
+}
+.sec_bg_color {
+	background-color: #313131;
+}
